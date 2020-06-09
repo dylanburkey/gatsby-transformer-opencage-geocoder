@@ -17,12 +17,12 @@
     "gatsby"
   ],
   "author": "Andrew Larcombe <andrew@andrewl.net> (http://www.andrewl.net)",
-	"repository": {
-		"type": "git",
-		"url": "git://github.com/andrewl/gatsby-transformer-opencage-geocoder.git"
-	},
-	"license": "MIT",
-	"dependencies": {
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/andrewl/gatsby-transformer-opencage-geocoder.git"
+  },
+  "license": "MIT",
+  "dependencies": {
     "opencage-api-client": "^0.4.0"
-	}
+  }
 }
